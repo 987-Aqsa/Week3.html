@@ -6,7 +6,6 @@
   box-sizing: border-box;
 }
 
-/* Body */
 body {
   background: #F3E6D8;
   display: flex;
@@ -16,7 +15,6 @@ body {
   color: #404040;
 }
 
-/* Card */
 .recipe__card {
   background-color: #ffffff;
   border-radius: 16px;
@@ -146,3 +144,4 @@ body {
   font-weight: 600;
   color: #854632;
 }
+
